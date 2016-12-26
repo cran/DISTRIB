@@ -1,0 +1,12 @@
+d3eb78dead5b3a92e77ee2c171b09f12 *DESCRIPTION
+df390c53434517b304ac5db487184641 *NAMESPACE
+128b7cb0e05c3c3f2390a584d38aca0f *R/cdf.R
+5cf0e26e3d40d4ffbd8c33df3bf6d160 *R/pdf.R
+153b93e9c55bc408cf96026be4102d77 *R/q.R
+9d64863543e0c8a7abe651fb7cacbfa7 *R/rd.R
+a91889cfab7f0f6b025faa50ea01fb35 *build/partial.rdb
+4c777d6385376b5623636a545bf2a0e6 *man/DISTRIB-package.Rd
+833c1c95746621e79dbaf3b0624a081e *man/cdf.Rd
+1c7283946e7dc35cb8fb1902b8242547 *man/pdf.Rd
+9f78a8b6f399af87daea7de2c5ff0141 *man/q.Rd
+8f515bd9e667cc8dc00662e7d62162f3 *man/rd.Rd
